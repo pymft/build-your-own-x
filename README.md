@@ -132,6 +132,7 @@
 
 * [**C**: _Linux containers in 500 lines of code_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [**C++**: _Creating your own containers_](http://cesarvr.github.io/post/2018-05-22-create-containers/)
+* [**Go**: _Build Your Own Container Using Less than 100 Lines of Go_](https://www.infoq.com/articles/build-a-container-golang)
 * [**Go**: _Building a container from scratch in Go_](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
 * [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
 * [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
@@ -215,6 +216,7 @@
 * [**JavaScript**: _Gitlet_](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [**JavaScript**: _Build GIT - Learn GIT_](https://kushagragour.in/blog/2014/01/build-git-learn-git/)
 * [**Python**: _Just enough of a Git client to create a repo, commit, and push itself to GitHub_](https://benhoyt.com/writings/pygit/)
+* [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
 
 #### Build your own `Network Stack`
@@ -229,7 +231,7 @@
 * [**F#**: _Building Neural Networks in F#_](https://towardsdatascience.com/building-neural-networks-in-f-part-1-a2832ae972e6)
 * [**Go**: _Build a multilayer perceptron with Golang_](https://made2591.github.io/posts/neuralnetwork)
 * [**Go**: _How to build a simple artificial neural network with Go_](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
-* [**Go**: _Building a Neural Net from Scratch in Go_](https://www.datadan.io/building-a-neural-net-from-scratch-in-go/)
+* [**Go**: _Building a Neural Net from Scratch in Go_](https://datadan.io/neural-net-with-go)
 * [**JavaScript / Java**: _Neural Networks - The Nature of Code_](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) [video]
 * [**JavaScript**: _Neural Network implementation in JavaScript, by an example_](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
 * [**JavaScript**: _Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)_](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
@@ -422,7 +424,7 @@
 * [**Nim**: _Writing a INI Parser_](https://xmonader.github.io/nimdays/day05_iniparser.html)
 * [**Nim**: _Writing a Link Checker_](https://xmonader.github.io/nimdays/day04_asynclinkschecker.html)
 * [**Nim**: _Writing a URL Shortening Service_](https://xmonader.github.io/nimdays/day07_shorturl.html)
-* [**Node.js**: _Build a static site generator in 40 lines with Node.js_](https://medium.com/douglas-matoso-english/build-static-site-generator-nodejs-8969ebe34b22)
+* [**Node.js**: _Build a static site generator in 40 lines with Node.js_](https://www.webdevdrops.com/build-static-site-generator-nodejs-8969ebe34b22/)
 * [**Node.js**: _Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js._](https://codeburst.io/building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340)
 * [**Node.js**: _How to create a real-world Node CLI app with Node_](https://medium.freecodecamp.org/how-to-create-a-real-world-node-cli-app-with-node-391b727bbed3)
 * [**PHP**: _Write your own MVC from scratch in PHP_ ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
